@@ -4,6 +4,13 @@
 
 ## Build Setup
 
+  install.bat
+
+if Problems
+
+  npm audit fix
+
+
 ``` bash
 # install dependencies
 npm install
